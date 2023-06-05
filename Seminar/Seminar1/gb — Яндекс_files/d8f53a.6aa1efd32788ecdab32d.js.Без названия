@@ -1,0 +1,1 @@
+(window.serpWebpackJsonp=window.serpWebpackJsonp||[]).push([["d8f53a","d8f53a"],{IVZZ:function(e,o,t){"use strict";t.d(o,"a",(function(){return p}));var s=t("35VS"),a=t("TYX2"),c=t("oTQ/"),n=Object(a.createClassNameModifier)(Object(c.b)(),{theme:"promo"}),p=Object(s.e)({desktop:n})}}]);
