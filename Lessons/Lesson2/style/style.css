@@ -1,0 +1,29 @@
+div {
+    background: rgb(147, 77, 77);
+    float: left;
+    position: relative;
+    width: 15%;
+    padding-bottom: 15%;
+    margin: 1%;        
+}
+div:hover {
+    background: rgb(147, 77, 77);
+}
+img {
+    position:absolute;
+    top: 0;
+    left: 0;
+    width: 110%;
+    height: 110%;
+}
+p, h1{
+    color: rgb(147, 77, 77);
+    margin: 0;
+    padding: 20px 0;
+    text-shadow: 2px 2px 1px blue;
+}
+html{
+    font-size: 15px;
+    font-family: 'Calibri', sans-serif;
+    background-color: #FFEFD5;
+}
