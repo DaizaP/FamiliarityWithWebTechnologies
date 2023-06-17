@@ -1,0 +1,34 @@
+{
+    "list": [
+        {
+            "fullname": {
+                "firstname": "Иван",
+                "lastname": "Иванов"
+            },
+            "age": 37,
+            "interest": [
+                "рыбалка",
+                "охота",
+                "футбол"
+            ],
+            "married": true,
+            "children": [
+                "Мария",
+                "Николай"
+            ]
+        },
+        {
+            "fullname": {
+                "firstname": "Ольга",
+                "lastname": "Фролова"
+            },
+            "age": 21,
+            "interest": [
+                "Путешествия",
+                "Выживание"
+            ],
+            "married": false,
+            "children": null
+        }
+    ]
+}
